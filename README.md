@@ -1,4 +1,4 @@
-![I am Salauddin](https://github.com/MdSalauddinYusuf/Salauddin-HabluProgramer/blob/main/yusuf4.png)
+![I am Salauddin](https://github.com/MdSalauddinYusuf/Salauddin-HabluProgramer/blob/main/SalauddinPassportSizePhoto.jpg)
 
 <h1 align="center">Hi 👋, I'm Md. Salauddin Yusuf</h1>
 <h3 align="center">Programmer | Web Designer | Android Application Developer | Speed Learner</h3>
